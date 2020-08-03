@@ -1,7 +1,7 @@
 <template>
   <v-app>
     <div class="d-flex justify-center">
-      <h1 id="addTodo">Add Employee</h1>
+      <h1 id="addTodo">Add/Update Employee</h1>
     </div>
     <div class="d-flex flex-column justify-center">
         <div style="margin: 10px 350px 0px 350px">
